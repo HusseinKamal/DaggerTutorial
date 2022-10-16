@@ -10,7 +10,6 @@ import com.hussein.daggar.viewmodels.ProductViewModel
 import com.hussein.daggar.viewmodels.ProductViewModelFactory
 import javax.inject.Inject
 
-
 /**Tutorial from here https://www.youtube.com/watch?v=sfjK21cPUds */
 class MainActivity : AppCompatActivity() {
     lateinit var productViewModel: ProductViewModel
