@@ -1,4 +1,4 @@
-# DaggerTutorial
+# DaggerTutorial in Kotlin
 Simple Dagger implementation with Coroutines ,Retrofit,LiveData,DataBinding and MVVM
 There are many packages 
 1- "di" package for dagger configuration  
